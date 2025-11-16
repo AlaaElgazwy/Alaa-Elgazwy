@@ -35,15 +35,20 @@
 
 ## 📦 Featured Projects
 
+### linux-admin-automathion
+
+GitHub Repo: **https://github.com/AlaaElgazwy/linux-admin-automation**
+
+
 ### 🛒 E-Commerce Platform (Django + Docker + PostgreSQL)
 - Fully containerized using Docker  
 - Uses Gunicorn + PostgreSQL  
 - Ready for CI/CD and Kubernetes deployment  
 
-GitHub Repo: **https://github.com/AlaaElgazwy/ecommerce_project**  
+GitHub Repo: ****  
 Docker Hub: **https://hub.docker.com/r/alaaelgazwy/ecommerce**
 
----
+
 
 
 ---
