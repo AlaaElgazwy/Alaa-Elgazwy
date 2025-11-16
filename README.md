@@ -45,7 +45,7 @@ GitHub Repo: **https://github.com/AlaaElgazwy/linux-admin-automation**
 - Uses Gunicorn + PostgreSQL  
 - Ready for CI/CD and Kubernetes deployment  
 
-GitHub Repo: ****  
+GitHub Repo: **https://github.com/AlaaElgazwy/My-online_store**  
 Docker Hub: **https://hub.docker.com/r/alaaelgazwy/ecommerce**
 
 
