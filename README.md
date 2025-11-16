@@ -63,7 +63,7 @@ Docker Hub: **https://hub.docker.com/r/alaaelgazwy/ecommerce**
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/  
+- **LinkedIn:** https://www.linkedin.com/in/alaa-elgazwy-a41959211 
 - **GitHub:** https://github.com/AlaaElgazwy  
 - **DockerHub:** https://hub.docker.com/u/alaaelgazwy  
 - **Email:** alaaelgazwy525@gmail.com  
